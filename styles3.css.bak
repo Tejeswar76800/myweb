@@ -1,2 +1,31 @@
-body{bodybackground-image: linear-gradient(to right top, #f89413, #e8b23e, #dcc96a, #d7dd99, #dcecc6, #d8f1c7, #d3f5c9, #cdfacc, #abf8a8, #88f481, #5df056, #01eb0a);
+body{background-image: linear-gradient(to right top, #121415, #0e1112, #0b0e0d, #080a07, #050502);
 }
+marquee{background-image: linear-gradient(to right top, #834dcf, #8849cf, #8d45cf, #9240cf, #973bce);
+}
+
+.text {
+	background: linear-gradient(90deg,#E60F19,#9518E0);
+	font-family: poppins;
+	text-transform: uppercase;
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+
+
+
+
+
+
+
+B{
+	text-transform: uppercase;
+	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font: {
+		size: 20vw;
+		family: $font;
+	};
+}
+
+	
+	
